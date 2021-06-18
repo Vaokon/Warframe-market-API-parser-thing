@@ -30,6 +30,7 @@ def item_info_to_file(item, filename, URL):
     file.close
 
 reliclist = []
+modlist = []
 itemlist = get_all_items(serverURL)
 lenght = len(itemlist)
 currentitemno = 1
