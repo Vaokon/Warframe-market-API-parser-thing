@@ -11,3 +11,4 @@ def get_item_info(item, URL):
 #iteminfo = get_item_info(serverURL, "axi_l5_relic")["payload"]["item"]["items_in_set"]
 print(get_item_info("cleanse_corrupted", serverURL))
 
+#hello world
